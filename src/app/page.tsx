@@ -9,7 +9,7 @@ const Home = () => {
                 <div className="main">
                              Hi,
                              <br />
-                             This is <span className="pinkColor"> ABDUL WAHAB</span>
+                             This is <span> ABDUL WAHAB</span>
                              <br /> Enhancing experience with NEXT.JS .|
                 </div>
                   
